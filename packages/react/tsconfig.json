@@ -1,5 +1,5 @@
 {
-  "extends": "@ignite-ui/ts-config/react.json",
+  "extends": "@ignite-ui-lsg/ts-config/react.json",
   "include": [
     "src"
   ]
