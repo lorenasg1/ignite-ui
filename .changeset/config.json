@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["packages/docs"]
+  "ignore": ["@ignite-ui-lsg/docs"]
 }
