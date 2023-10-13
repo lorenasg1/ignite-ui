@@ -1,0 +1,2 @@
+import{A as t}from"./index-3a24cd3a.js";import"./index-a38f3d31.js";import"./es.object.get-own-property-descriptor-d261b708.js";import"./index-b042d21f.js";import"./jsx-runtime-69008c6b.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lorenasg1.png",alt:"Avatar de Lorena",nameInitials:"LG"},argTypes:{src:{control:{type:"text"}}}},n={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{n as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-5bdb5e6c.js.map
