@@ -38,6 +38,10 @@ export const Button = styled('button', {
         '&:not(:disabled):hover': {
           background: '$ignite300',
         },
+
+        '&:focus': {
+          boxShadow: '0 0 0 2px $colors$gray100',
+        },
       },
       secondary: {
         color: '$ignite300',

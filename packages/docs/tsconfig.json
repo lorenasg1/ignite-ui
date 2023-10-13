@@ -1,6 +1,9 @@
 {
   "extends": "@ignite-ui-lsg/ts-config/react.json",
   "include": [
-    "src"
-  ]
+    "src",
+  ],
+  "compilerOptions": {
+    "jsx": "preserve",
+  }
 }
